@@ -171,7 +171,7 @@ main {
     position: absolute;
     top: 0;
     right: -20%;
-    transition: 2s ;
+    transition: 2s;
 }
 
 /*Tablet responsive*/
@@ -209,26 +209,26 @@ main {
         max-width: 30rem;
         margin-left: 10%;
     }
-    .robot-3d{
+    .robot-3d {
         scale: 0.5;
-        top:-25%;
-        right:0;
+        top: -25%;
+        right: 0;
     }
-    .tag-box{
-        width:12rem;
+    .tag-box {
+        width: 12rem;
     }
- .content h1{
-    font-size: 2.5rem;
- }
- .description{
-    font-size: 1rem;
- }
- .btn-get-started{
-    font-size:0.8rem;
-    padding: 0.8rem 1.2rem;
- }
- .btn-signing-main{
-    font-size: 0.8rem;
-    padding: 0.8rem 2rem;
- }
+    .content h1 {
+        font-size: 2.5rem;
+    }
+    .description {
+        font-size: 1rem;
+    }
+    .btn-get-started {
+        font-size: 0.8rem;
+        padding: 0.8rem 1.2rem;
+    }
+    .btn-signing-main {
+        font-size: 0.8rem;
+        padding: 0.8rem 2rem;
+    }
 }
